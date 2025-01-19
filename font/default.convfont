@@ -1,0 +1,190 @@
+convfont
+Height: 16
+Fixed width: 12
+Font data:
+
+Code point: "0"
+Data:
+
+ aaaaaaa
+ aaaaaaaa
+ aa    aaa
+ aa     aa
+ aa      aa
+ aa      aa
+ aa      aa
+ aa      aa
+ aa      aa
+ aa      aa
+ aa     aa
+ aa    aaa
+ aaaaaaaa
+ aaaaaaa
+
+Code point: "1"
+Data:
+
+   aaaaaa
+   aaaaaa
+     aa
+     aa
+     aa
+     aa
+     aa
+     aa
+     aa
+     aa
+     aa
+     aa
+   aaaaaa
+   aaaaaa
+
+Code point: "2"
+Data:
+
+    aaaaaa
+   aaaaaaaa
+  aaa    aa
+  aa
+ aa
+ aa
+ aa   aaaaa
+ aa   aaaaa
+ aa      aa
+ aa      aa
+  aa     aa
+  aaa    aa
+   aaaaaaaa
+    aaaaaaa
+
+Code point: "3"
+Data:
+
+   aaaaaa
+  aaaaaaaa
+ aa      aa
+ aa      aa
+ aa      aa
+ aa      aa
+ aa      aa
+ aaaaaaaaaa
+ aaaaaaaaaa
+ aa      aa
+ aa      aa
+ aa      aa
+ aa      aa
+ aa      aa
+
+Code point: "4"
+Data:
+
+ aa      aa
+ aaa     aa
+ aaa     aa
+ aaaa    aa
+ aa aa   aa
+ aa aa   aa
+ aa  aa  aa
+ aa  aa  aa
+ aa   aa aa
+ aa   aa aa
+ aa    aaaa
+ aa     aaa
+ aa     aaa
+ aa      aa
+
+Code point: "5"
+Data:
+
+ aa
+ aa
+ aa
+ aa
+ aa
+ aa
+ aa
+ aa
+ aa
+ aa
+ aa
+ aa
+ aaaaaaaaaa
+ aaaaaaaaaa
+
+Code point: "6":
+Data:
+
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+
+Code point: "7":
+Data:
+
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+
+Code point: "8":
+Data:
+
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+
+Code point: "9":
+Data:
+
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+
+:end
